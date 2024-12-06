@@ -1,0 +1,42 @@
+{
+    "experiences": [
+        {
+            "title": "AI/ML Intern",
+            "subtitle": "Dhyey Technologies (OPC) PVT. LTD. DBA TechXi , Gujarat, India",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on projects such as Hand Gesture Presentation system, Sentiment Analysis of Customer Reviews and Bird Species Detection project using Robotic Process Automation."
+            ],
+            "dateText": "Dec 2023 - April 2024"
+        },
+        {
+            "title": "Mern Stack Intern",
+            "subtitle": "Prolog Infotech , Gujarat, India",
+            "workType": "Internship",
+            "workDescription": [
+                "Learned Javascript, Reactjs, Nodejs, MongoDB",
+                "Developed the Hiring Test App "
+            ],
+            "dateText": "July 2023 - Nov 2023"
+        },
+        {
+            "title": "Machine Learning Intern",
+            "subtitle": "Raven Technolabs, Gujarat, India",
+            "workType": "Internship",
+            "workDescription": [
+                "Learned Python, Streamlit Framework, Sequential Neural Network.",
+                "Worked on model using Convolution Neural Network."
+            ],
+            "dateText": "May 2023 - June 2023"
+        },
+        {
+            "title": "Python Developer",
+            "subtitle": "Sparks To Ideas, Gujarat, India",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on different Python Mini projects such as TIC-TAC-TOE, Weather Forecast and Rock paper scissors game."
+            ],
+            "dateText": "May 2022 - June 2022"
+        }
+    ]
+}

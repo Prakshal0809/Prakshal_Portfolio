@@ -1,0 +1,126 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/New folder/Bird_detection_ss.png",
+            "title": "Bird Species Classification",
+            "bodyText": "- Developed a deep-learning model for precise bird species identification and deployed using streamlit.\n -  Fully customisable and dynamic, easily change data and images.\n - Used Robotic Process Automation for fetching description of birds.\n - Dark Mode support.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Prakshal0809/Bird-Species-Detection.git"
+                }   
+            ],
+            "tags" : [
+                "Python",
+                "Deep Learning",
+                "Streamlit",
+                "Robotic Process Automation"
+            ]
+        },
+        {
+            "image" : "images/projects/New folder/hand_gesture.jpeg",
+            "title": "Hand Gesture Controlled Presentation",
+            "bodyText": "- The Hand Gesture Controlled Presentation project aims to develop a system that allows users to control presentations using hand gestures instead of traditional input devices like a keyboard or mouse.\n - Improve accessibility for individuals with mobility impairments or those who prefer hands-free interaction, providing an alternative means of controlling presentations.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Prakshal0809/Hand-Gesture-Controlled-Presentation.git"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "OpenCV",
+                "Mediapipe"
+                
+                
+            ]
+        },
+        {
+            "image" : "images/projects/lip_reading.webp",
+            "title": "Lip Reading Streamlit App",
+            "bodyText": "- An innovative application designed to interpret spoken words through lip movement analysis.\n -  Utilizing advanced machine learning techniques and computer vision, the app processes video input to predict the spoken words without relying on audio.\n - Built with Streamlit for an interactive and user-friendly interface, the app enables users to upload their videos and receive real-time predictions.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Prakshal0809/Lip-Reading-Streamlit-App"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Streamlit",
+                "Deep Learning",
+                "Sequential Neural Network"
+            ]
+        },
+        {
+            "image" : "images/projects/career_ml.jpg",
+            "title": "Career Prediction Model",
+            "bodyText": "- A Web application designed to predict optimal career paths for individuals based on various input parameters such as skills, education, interests, and work experience.\n - The application leverages machine learning algorithms to analyze user data and provide personalized career recommendations.\n - Built with Django, it ensures robust backend development, efficient data handling, and seamless integration with predictive models.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Prakshal0809/Career-Prediction-Tool-using-Django"
+                }
+            ],
+            "tags" : [
+                "Django",
+                "Machine learning",
+                "Numpy",
+                "Pandas",
+                "Tensorflow"
+            ]
+        },
+        {
+            "image" : "images/projects/powerbi_hr_analytics.png",
+            "title": "Power Bi Analytics Dashboard",
+            "bodyText": "- Developed a dashboard in Power BI utilizing data from an Excel file.\n - The dashboard effectively visualizes and analyzes the given data.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Prakshal0809/Power-Bi-Analytics-Dashboard.git"
+                }
+            ],
+            "tags" : [
+                "PowerBi",
+                "Data Analysis"
+                
+            ]
+        },
+        {
+            "image" : "images/projects/Machine_Learning_Algorithms.png",
+            "title": "Machine Learning Algorithms",
+            "bodyText": "- This project showcases basic machine learning programs I developed during my studies, written in Python, intended for educational use or as a foundation for more advanced projects.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Prakshal0809/Machine_Learning_Algorithms"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Numpy",
+                "Pandas",
+                "Machine learning",
+                "Matplotlib"
+                
+            ]
+        },
+        {
+            "image" : "images/projects/Sql.jpeg",
+            "title": "SQL Data Analysis Project",
+            "bodyText": "- The project involves analyzing data for pizza sales company.\n - Utilizing SQL to tackle and resolve a range of data analysis questions related to the dataset .\n - This project is essential for gaining foundational to advanced knowledge of SQL.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Prakshal0809/SQL-Data-Analysis-Project"
+                }
+            ],
+            "tags" : [
+                "SQL",
+                "Data Analysis"
+                
+            ]
+        }
+       
+    ]
+}

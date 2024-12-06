@@ -1,0 +1,23 @@
+{
+    "education": [
+        {
+            "title": "Sept 2024",
+            "cardTitle": "Masters of Electrical and Computer Engineering",
+            "cardSubtitle": "University of Ottawa, Ottawa, Canada"
+        },
+        {
+            "title": "Sept 2020 - May 2024",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle": "Charusat University, Anand, India",
+            "cardDetailedText": "CGPA - 9.53"
+            
+        },
+        {
+            "title": "Mar 2018 - Mar 2020",
+            "cardTitle": "High School",
+            "cardSubtitle": "Gujarat Refinery English Medium School, Vadodara, India",
+            "cardDetailedText": "Marks - 85%"
+        }
+    ]
+}
+

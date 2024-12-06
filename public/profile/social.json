@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/prakshal-bhandari-1393b3244/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Prakshal0809"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:prakshalbhandari08@gmail.com"
+        }
+    ]
+}
